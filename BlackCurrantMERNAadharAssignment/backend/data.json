@@ -1,0 +1,18 @@
+[{
+    "firstName": "Rohini",
+    "lastName": "Koli",
+    "phoneNumber": "9372692818",
+    "emailAddress": "rohinikoli341999@gmail.com",
+    "password": "Roha",
+    "homeAddress": "301,B-1,Phase-1,Sa-Sankul,Khadakpada,Kalyan",
+    "state": "Maharashtra"
+},
+{
+    "firstName": "Bhushan",
+    "lastName": "Koli",
+    "phoneNumber": "9321874413",
+    "emailAddress": "bhushannkoli26@gmail.com",
+    "password": "Bhushu",
+    "homeAddress": "301,B-1,Phase-1,Sai-Sankul,Khadakpada,Kalyan",
+    "state": "Chennai"
+}]
