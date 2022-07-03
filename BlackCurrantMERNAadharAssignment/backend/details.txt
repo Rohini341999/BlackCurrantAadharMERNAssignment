@@ -1,0 +1,8 @@
+Project name : BlackCurrantMernAssignment
+Cluster name : aadharAssignment
+Username : Rohini341999
+Password : Js75saYRZkYKhtMj
+My IP Address : 103.178.126.69/32
+Database name : aadharDetails
+MongoDB Compass : mongodb+srv://Rohini341999:Js75saYRZkYKhtMj@aadharassignment.ujodf9p.mongodb.net/aadharDetails
+Collection Name : aadharEntries
