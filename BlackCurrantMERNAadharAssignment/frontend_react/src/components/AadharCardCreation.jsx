@@ -26,7 +26,7 @@ function AadharCardCreation() {
   return (
     <>
       <h2>Enter Aadhar Details.</h2>
-      <form action="submit" onSubmit={submittedAadharDetails}>
+      <form action="/aadharCreation" onSubmit={submittedAadharDetails}>
         <div className="column-parent">
           <div className="one-half">
             <span>First Name : </span>
